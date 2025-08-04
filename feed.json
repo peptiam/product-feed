@@ -1,11 +1,11 @@
 [
   {
-    "id": "",
-    "title": "",
-    "link": "",
-    "description": "",
-    "image_link": "",
-    "price": 0.0,
+    "id": "549169",
+    "title": "NiuPetiam Alta Pureza 60 porciones",
+    "link": "https://www.peptiam.cl/products/niupetiam-alta-pureza",
+    "description": "Colágeno hidrolizado 100% puro en polvo, sin sabor ni olor. Fórmula ultra limpia que apoya la regeneración articular y muscular, mejora la salud digestiva y la piel. Cada porción aporta proteína de alta calidad y se disuelve fácilmente en bebidas frías o calientes.",
+    "image_link": "https://r.bolder.run/4061/large/982134-alta_pureza.png",
+    "price": 38990,
     "currency": "CLP",
     "availability": "out of stock"
   },
@@ -139,4 +139,5 @@
     "currency": "CLP",
     "availability": "out of stock"
   }
+
 ]
